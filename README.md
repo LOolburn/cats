@@ -1,6 +1,6 @@
 # cats
 
-A new Flutter project.
+просто показывает котеков
 
 ## Getting Started
 
